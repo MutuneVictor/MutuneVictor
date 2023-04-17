@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mutune Victor
-- 👀 I’m interested in ...building websites and helping in community coding  projects
-- 🌱 I’m currently learning ... HTML CSS and JavaScript 
+- 👀 I’m passsionately interested in ...building Websites, Web Applications and helping in community coding  projects
+- 🌱 I’m currently learning ... HTML, CSS and JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... victormutune47@gmail.com
 
